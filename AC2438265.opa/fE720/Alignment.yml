@@ -1,0 +1,40 @@
+segment_sources:
+  IBD8BCD75:
+    type: origin_type
+    relation: translation
+    language: en
+  I75DEE444:
+    type: origin_type
+    relation: translation
+    language: de
+  I1424B72D:
+    type: origin_type
+    relation: translation
+    language: es
+  IAEB91761:
+    type: origin_type
+    relation: translation
+    language: fr
+  ICBD3BA8C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d2d70b76fc4c4064a1ef338f85cee752:
+    IBD8BCD75: 78eff455a0f742cdb4d2dc0d99da0422
+    I75DEE444: 478a6a2456fd40a2b9dd66d9665fb4f6
+    I1424B72D: a466d3c85dd14620a6742d1b1c18ca18
+    IAEB91761: 0fca95f66aa843869da201c69f2c267b
+    ICBD3BA8C: af64f65c19014ee4a0085ec02450e470
+  e5af3db8d79d447483bc606f42024456:
+    IBD8BCD75: f2abbb437d0b4384841fa55952833aaf
+    I75DEE444: 94d0993f8c2d42afb430ca3aa2db6a1f
+    I1424B72D: d2999d0f82ea4931a687668a1115eb34
+    IAEB91761: ea6db8735d334fee97bd829fe007438b
+    ICBD3BA8C: 23f3b505e3ee4b2782ceca6e0c22ffcd
+  636b4d3bf1154a77a721e63cfaaaa138:
+    IBD8BCD75: 090fd72086a645a9bec54f0b25377fd8
+    I75DEE444: None
+    I1424B72D: None
+    IAEB91761: None
+    ICBD3BA8C: e07836277f524105b21c4b709a9f2884
